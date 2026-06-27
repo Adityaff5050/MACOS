@@ -10,7 +10,7 @@ const Nav = () => {
             <img src="/navbaricon/apple.svg" alt="" />
         </div>
         <div className="nav-item">
-           <p>Unfilterdaadi007</p>
+           <p>Unfilterd_aditya007</p>
         </div>
         <div className="nav-item">
             <p>File</p>

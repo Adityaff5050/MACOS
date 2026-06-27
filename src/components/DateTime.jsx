@@ -7,7 +7,7 @@ const DateTime = () => {
     const interval = setInterval(() => {
       setTime(new Date())
     }, 1000)
-    return () => clearInterval(interval)
+    return () => clearInterval( interval)
   }, [])
 
   const formatted = time.toLocaleString('en-US', {
